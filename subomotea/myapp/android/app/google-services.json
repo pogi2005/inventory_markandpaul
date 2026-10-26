@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832122151889",
+    "project_id": "subomotea",
+    "storage_bucket": "subomotea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832122151889:android:53c1dcf920c9c5652f36f0",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOXpgVi04zdB07KtFh9X3Hgw2PTrdjg84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
